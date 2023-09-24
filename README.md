@@ -1,7 +1,7 @@
 # svksmjpru_Student_Semester-help-app
 The main purpose of this project is related to semester preparation of B.TECH,B.PHARMA and MBA students studying in MJPRU.
 # Website Landing Page
-### [Live Site]([http://svksmjpru.epizy.com/))
+### [Live Site](http://svksmjpru.epizy.com/home%20page.php)
 
 ![SVKSMJPRU Landing Page](http://svksmjpru.epizy.com/login.php)
 
